@@ -102,7 +102,7 @@ It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Comm
 
 - Covered / useful R modules: 
 
-    Hedgehog: https://github.com/hedgehogqa/r-hedgehog *recomended
+    Hedgehog: https://github.com/hedgehogqa/r-hedgehog *
     
     cookiecutter-r : https://github.com/bdcaf/cookiecutter-r-data-analysis
 
