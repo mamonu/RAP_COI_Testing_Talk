@@ -16,3 +16,6 @@ Covering :
 - [x] Documentation (autodoc)
 - [x] Memes
 
+
+It has a Python slant but I tried to include R implementations too. 
+But what I wanted to talk mainly about was concepts
