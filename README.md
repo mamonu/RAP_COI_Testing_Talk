@@ -24,13 +24,13 @@ But what I really wanted to talk about was the concepts.
 It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Community of Interest gathering at ONS in London
 
 
-### TLDR links
+##### TLDR links
 
 
-- Some Books of interest :
+- Some Books of interest (perhaps to find in local or organisation library) :
 
-
-    https://certifications.bcs.org/upload/pdf/swt-intermediate-reading.pdf
+    
+    https://www.goodreads.com/book/show/25819310-software-testing
   
     https://www.oreilly.com/library/view/python-testing-with/9781680502848/
   
@@ -39,46 +39,55 @@ It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Comm
 
 
     https://martinfowler.com/articles/practical-test-pyramid.html
+
+    https://medium.com/homeaway-tech-blog/write-better-python-with-hypothesis-5b31ac268b69
+    
   
+-   Docs from modules   
+
+    
     https://hypothesis.works/articles/
   
-    https://docs.pytest.org/en/latest/
-  
-    https://medium.com/homeaway-tech-blog/write-better-python-with-hypothesis-5b31ac268b69
-  
-  
+    https://docs.pytest.org/en/latest/  
+
 
 - Course
 
 
-  Great course covering the spectrum of tools from the R side of things:
+   Great course covering the spectrum of tools from the R side of things:
   
   
   
     https://www.udemy.com/reproducible-analytical-pipelines/
 
 
-- Covered /useful Python modules: 
+- Covered / useful Python modules: 
 
 
   py.test : https://github.com/pytest-dev/pytest
   
+  mutpy : https://github.com/mutpy/mutpy
   
-  mutpy/mutmut/cosmic_ray 
+  mutmut : https://github.com/boxed/mutmut
   
+  cosmic_ray  : https://github.com/sixty-north/cosmic-ray  *recomended
   
   hypothesis : https://github.com/HypothesisWorks/hypothesis
   
-  
   tox / nox : https://github.com/tox-dev/tox
-  
   
   cookiecutter: https://github.com/audreyr/cookiecutter
   
-  
   pyjanitor : https://github.com/ericmjl/pyjanitor
+  
+  sphinx-doc : http://www.sphinx-doc.org/en/master/
 
 
+
+- Covered / useful R modules: 
+
+    Hedgehog: https://github.com/hedgehogqa/r-hedgehog
+    cookiecutter-r : https://github.com/bdcaf/cookiecutter-r-data-analysis
 
 
 - Article : When RAP processes are not there...
