@@ -23,6 +23,7 @@ But what I really wanted to talk about was the concepts.
 
 It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Community of Interest gathering at ONS in London
 
+---
 
 ##### TLDR links
 
@@ -35,6 +36,8 @@ It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Comm
     https://www.oreilly.com/library/view/python-testing-with/9781680502848/
   
 
+---
+
 - Blog Posts
 
 
@@ -42,7 +45,9 @@ It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Comm
 
     https://medium.com/homeaway-tech-blog/write-better-python-with-hypothesis-5b31ac268b69
     
-  
+ 
+ ---
+ 
 -   Docs from modules   
 
     
@@ -50,6 +55,8 @@ It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Comm
   
     https://docs.pytest.org/en/latest/  
 
+
+---
 
 - Course
 
@@ -59,6 +66,8 @@ It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Comm
   
   
     https://www.udemy.com/reproducible-analytical-pipelines/
+
+---
 
 
 - Covered / useful Python modules: 
@@ -82,13 +91,14 @@ It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Comm
   
   sphinx-doc : http://www.sphinx-doc.org/en/master/
 
-
+---
 
 - Covered / useful R modules: 
 
     Hedgehog: https://github.com/hedgehogqa/r-hedgehog
     cookiecutter-r : https://github.com/bdcaf/cookiecutter-r-data-analysis
 
+---
 
 - Article : When RAP processes are not there...
 
