@@ -10,15 +10,15 @@ Covering :
 - [x] Automated testing 
 - [x] Property based testing
 - [x] Mutation Testing
-- [x] Integration
+- [x] Integration Testing
 - [x] End2End Testing
 - [x] Continuous Integration (CI)
 - [x] Documentation (autodoc)
 - [x] Memes
 
 
-It has a Python slant but I tried to include R implementations too. 
-But what I wanted to talk mainly about was concepts
+It has a Python slant but I tried to include R implementations where availiable. 
+But what I really wanted to talk about was the concepts.
 
 
 It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Community of Interest gathering at ONS in London
