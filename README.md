@@ -76,30 +76,37 @@ It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Comm
 - Covered / useful Python modules: 
 
 
-  py.test : https://github.com/pytest-dev/pytest
+  py.test : https://github.com/pytest-dev/pytest *
   
   mutpy : https://github.com/mutpy/mutpy
   
   mutmut : https://github.com/boxed/mutmut
   
-  cosmic_ray  : https://github.com/sixty-north/cosmic-ray  *recomended
+  cosmic_ray  : https://github.com/sixty-north/cosmic-ray  *
   
-  hypothesis : https://github.com/HypothesisWorks/hypothesis
+  hypothesis : https://github.com/HypothesisWorks/hypothesis  *
   
   tox / nox : https://github.com/tox-dev/tox
   
   cookiecutter: https://github.com/audreyr/cookiecutter
   
-  pyjanitor : https://github.com/ericmjl/pyjanitor
+  pyjanitor : https://github.com/ericmjl/pyjanitor *
   
   sphinx-doc : http://www.sphinx-doc.org/en/master/
+
+
+*recomended
+
 
 ---
 
 - Covered / useful R modules: 
 
-    Hedgehog: https://github.com/hedgehogqa/r-hedgehog
+    Hedgehog: https://github.com/hedgehogqa/r-hedgehog *recomended
+    
     cookiecutter-r : https://github.com/bdcaf/cookiecutter-r-data-analysis
+
+*recomended
 
 ---
 
