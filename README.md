@@ -19,3 +19,6 @@ Covering :
 
 It has a Python slant but I tried to include R implementations too. 
 But what I wanted to talk mainly about was concepts
+
+
+It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Community of Interest gathering at ONS in London
