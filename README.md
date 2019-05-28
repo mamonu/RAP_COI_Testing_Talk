@@ -24,8 +24,11 @@ But what I really wanted to talk about was the concepts.
 It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Community of Interest gathering at ONS in London
 
 ---
+---
+---
 
 ##### TLDR links
+
 
 
 - Some Books of interest (perhaps to find in local or organisation library) :
