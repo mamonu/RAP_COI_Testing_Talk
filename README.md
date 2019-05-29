@@ -1,4 +1,8 @@
 # RAP_COI_Testing_Talk
+
+<img src="https://github.com/mamonu/RAP_COI_Testing_Talk/raw/master/RAPz.jpg" data-canonical-src="https://github.com/mamonu/RAP_COI_Testing_Talk/raw/master/RAPz.jpg" width="200" height="200" />
+
+
 A short talk about testing and how it relates to  RAP (Reproducible Analytical Pipelines)
 
 
@@ -48,10 +52,12 @@ It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Comm
 
     https://medium.com/homeaway-tech-blog/write-better-python-with-hypothesis-5b31ac268b69
     
+    https://blog.codecentric.de/en/2016/01/mutation-testing-watching-watchmen/
+    
  
  ---
  
--   Docs from modules   
+-   Documentation from selected modules   
 
     
     https://hypothesis.works/articles/
