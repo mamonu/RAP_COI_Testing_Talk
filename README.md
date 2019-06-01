@@ -37,7 +37,7 @@ Essential:
 
 
 
-- Unit testing (manual)
+- Unit testing (basic anecdote-based testing)
 
 - Unit testing (automatic with parameterization)
 
