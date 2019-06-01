@@ -31,6 +31,35 @@ It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Comm
 ---
 ---
 
+##### TLDR concepts
+
+Essential:
+
+
+
+- Unit testing (manual)
+
+- Unit testing (automatic with parameterization)
+
+- Integration testing (less tests that unit tests)
+
+- End to End Testing (even less tests but to test whole pipeline)
+
+- Continuous Integration
+
+
+Nice to Have:
+
+
+- Coverage metrics (useful metric but not end-all-be-all)
+
+- Property based unit tests 
+
+- Mutation unit tests
+
+
+
+
 ##### TLDR links
 
 
