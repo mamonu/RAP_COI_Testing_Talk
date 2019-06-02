@@ -39,17 +39,33 @@ Essential:
 
 - Unit testing (basic anecdote-based testing)
 
+  Anecdote based testing. Test your functions with specific inputs and expect specific outputs
+
 - Unit testing (automatic with parameterization)
 
-- Integration testing (less tests that unit tests)
+   Same as above but include more than one set of inputs and outputs. The more the merrier. 
+   Parametrized tests will be called multiple times, each time executing the set of dependent tests. 
+   Test functions usually do not need to be aware of their re-running.
+
+- Integration testing (less tests that unit tests)  
+
+  Testing performed to expose defects in the interfaces and in the interactions between pipeline steps.
 
 - End to End Testing (even less tests but to test whole pipeline)
 
-- Continuous Integration
+  There may still be emergent issues when the whole pipeline is used together hence E2E testing needed
 
 
 Nice to Have:
 
+- Continuous Integration
+
+  Every time someone tries to integrate / add code to a codebase the following things need to happen:
+  
+  * merge new code with old code in a test environment
+  * run a series of tests (many unit tests,less integration tests,few e2e tests)
+  * if none of the tests is throwing an error then code is accepted to repo (or at least this is the point that perhaps code review can take place
+  
 
 - Coverage metrics (useful metric but not end-all-be-all)
 
