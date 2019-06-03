@@ -109,6 +109,8 @@ Nice to Have:
     https://hypothesis.works/articles/
   
     https://docs.pytest.org/en/latest/  
+    
+    https://nox.readthedocs.io/en/stable/
 
 
 ---
@@ -138,7 +140,9 @@ Nice to Have:
   
   hypothesis : https://github.com/HypothesisWorks/hypothesis  *
   
-  tox / nox : https://github.com/tox-dev/tox
+  tox : https://github.com/tox-dev/tox
+  
+  nox : https://github.com/theacodes/nox
   
   cookiecutter: https://github.com/audreyr/cookiecutter
   
