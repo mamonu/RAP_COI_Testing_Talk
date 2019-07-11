@@ -28,6 +28,13 @@ But what I really wanted to talk about was the concepts.
 It was presented on  28th/May/2019 at the Reproducible Analytical Pipelines Community of Interest gathering at ONS in London
 
 ---
+
+Here are some blog posts I wrote related to the subjects above:
+
+* Introductory material about testing covered [here](https://mamonu.github.io/Testing/])
+* Talking about pytest, some example simple tests with it and calculating coverage [here](https://mamonu.github.io/testing_coverage/)
+* Talking about property based testing in more detail and some examples [here](https://mamonu.github.io/Property-Based-Testing/)
+
 ---
 ---
 
